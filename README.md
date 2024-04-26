@@ -17,4 +17,3 @@ This project aims to develop a system that detects car accidents using GPS data 
 
 ## System Architecture
 ![project](hi.png)
-![project](hii.png)
